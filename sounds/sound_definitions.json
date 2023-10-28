@@ -1,0 +1,21 @@
+{
+    "format_version" : "1.20.20",
+    "sound_definitions" : {
+        "mob.chicken.hurt" : {
+            "__use_legacy_max_distance" : "true",
+            "category" : "neutral",
+            "max_distance" : null,
+            "min_distance" : null,
+            "sounds" : [ "sounds/mob/chicken/hurt" ]
+         },
+         "mob.chicken.say" : {
+            "__use_legacy_max_distance" : "true",
+            "category" : "neutral",
+            "max_distance" : null,
+            "min_distance" : null,
+            "sounds" : [
+               "sounds/mob/chicken/say"
+            ]
+         }
+    }
+}

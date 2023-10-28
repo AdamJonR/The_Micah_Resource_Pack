@@ -1,0 +1,14 @@
+{
+    "entity_sounds" : {
+       "entities" : {
+        "chicken" : {
+            "events" : {
+               "ambient" : "mob.chicken.say",
+               "death" : "mob.chicken.hurt",
+               "hurt" : "mob.chicken.hurt"
+            },
+            "volume" : 1.0
+         }
+        }
+    }
+}

@@ -1,18 +1,18 @@
 {
     "format_version": 2,
     "header": {
-      "description": "A Micah Minecraft add-on that takes this world to new levels :)",
+      "description": "A Micah Minecraft add-on that takes this world to new levels visually and sonically :)",
       "name": "The Micah Minecraft Add-On!",
       "uuid":"9eb751cc-7378-11ee-b962-0242ac120002",
-      "version": [1, 0, 1],
+      "version": [1, 0, 3],
       "min_engine_version": [1, 16, 0]
      },
     "modules": [
       {
-        "description": "Our First Micah Minecraft Add-On!",
+        "description": "Our First Micah Minecraft Add-On! Now with new sounds!",
         "type": "resources",
         "uuid": "b03634fe-7378-11ee-b962-0242ac120002",
-        "version": [1, 0, 1]
+        "version": [1, 0, 3]
       }
     ]
    }
